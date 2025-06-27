@@ -37,30 +37,6 @@ A sleek and powerful dashboard that allows users to scan IP addresses using **Vi
 
 ---
 
-## 🛠️ Installation
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/cyber-threat-intel-dashboard.git
-cd cyber-threat-intel-dashboard
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Add your API keys in app.py
-
-# Run the app
-python app.py
-```
-
-Open your browser and visit: `http://127.0.0.1:5000`
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -68,15 +44,14 @@ cyber-threat-intel-dashboard/
 ├── templates/
 │   ├── index.html
 │   ├── result.html
-│   ├── visuals.html
-│   └── export.html
-├── static/
-│   └── styles.css
-├── screenshots/
-│   ├── home.png
-│   └── result.png
+│   └── visuals.html
+├── utils/
+│   ├── init.py
+│   ├── vt_api.py
+│   └── abuse_api.py
+├── home.png
+├── result.png
 ├── app.py
-├── requirements.txt
 └── README.md
 ```
 
@@ -85,11 +60,9 @@ cyber-threat-intel-dashboard/
 ## ✍️ Author
 
 **Krathan N Shetty**  
-🎓 BCA Cybersecurity | Developer | NSS Volunteer  
+🎓 BCA Cybersecurity | Student |  Cybersecurity Enthusiast
 🔗 [LinkedIn](https://www.linkedin.com/in/shettykrathan)
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
+🆓 You are free to use, modify, and redesign this project for your own learning or deployment purposes.
