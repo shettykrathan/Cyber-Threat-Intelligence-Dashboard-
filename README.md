@@ -7,10 +7,10 @@ A sleek and powerful dashboard that allows users to scan IP addresses using **Vi
 ## 📸 Screenshots
 
 ### 🔹 Home Page – IP Threat Scanner
-![Home Page](./index.png)
+![Home Page](./index.jpg)
 
 ### 🔹 Threat Analysis Result
-![Result Page](./screenshots/result.png)
+![Result Page](./result.jpg)
 
 > _These images show the clean dark-mode UI, IP lookup form, and threat analysis summary using VirusTotal & AbuseIPDB APIs._
 
