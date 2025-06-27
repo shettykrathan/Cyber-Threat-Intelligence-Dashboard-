@@ -7,7 +7,7 @@ A sleek and powerful dashboard that allows users to scan IP addresses using **Vi
 ## 📸 Screenshots
 
 ### 🔹 Home Page – IP Threat Scanner
-![Home Page](./screenshots/home.png)
+![Home Page](./index.png)
 
 ### 🔹 Threat Analysis Result
 ![Result Page](./screenshots/result.png)
