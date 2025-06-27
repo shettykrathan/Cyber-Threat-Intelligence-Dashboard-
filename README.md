@@ -10,7 +10,7 @@ A sleek and powerful dashboard that allows users to scan IP addresses using **Vi
 ![Home Page](./index.jpg)
 
 ### 🔹 Threat Analysis Result
-![Result Page](./result.jpg)
+![Result Page](./results.jpg)
 
 > _These images show the clean dark-mode UI, IP lookup form, and threat analysis summary using VirusTotal & AbuseIPDB APIs._
 
